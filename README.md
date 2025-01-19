@@ -20,9 +20,11 @@ A Software Engineer with experience in developing efficient and scalable solutio
 <img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />  <br>   
  <br>
-I enjoy solving complex challenges and building robust,    
-
-scalable applications. Whether developing dynamic web apps or exploring emerging technologies,    
-I am committed to writing clean, efficient code and contributing to meaningful projects.    
+I enjoy solving complex challenges and building robust,scalable applications.
+ <br>
+Whether developing dynamic web apps or exploring emerging technologies,
+<br>
+I am committed to writing clean, efficient code and contributing to meaningful projects.
+<br>
 Let's connect and collaborate to drive innovation forward!
 
